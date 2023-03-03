@@ -1,0 +1,3 @@
+﻿  pch.c
+  logger.c
+  logger.vcxproj -> C:\Code\logger\x64\Release\logger.lib
